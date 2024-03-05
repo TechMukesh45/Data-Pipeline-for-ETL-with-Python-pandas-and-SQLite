@@ -1,2 +1,3 @@
 # Data-Pipeline-for-ETL-with-Python-pandas-and-SQLite
 This project demonstrates the construction of a data pipeline for ETL (Extract, Transform, Load) operations using Python, pandas, and SQLite.
+The pipeline extracts data from flat files (CSVs), transforms it by filtering and aggregating based on specific criteria, and then loads the transformed data into a SQLite database. Through a series of functions, it showcases the application of DRY (Don't Repeat Yourself) principles to streamline code, conducts basic exploratory data analysis (EDA), and ensures data integrity by validating the loaded data against the original. The pipeline is applied to a dataset of Google Play Store apps and reviews, illustrating a practical use case scenario for data processing tasks.
